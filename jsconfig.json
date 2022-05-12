@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "jsx": "preserve", //изменено(добавлено)ошибка -(TypeScript intellisense is disabled on template, you can tsconfig `"jsx": "preserve"` in tsconfig or jsconfig to enable it, or config `vueCompilerOptions.experimentalDisableTemplateSupport` to disable this prompt.volar)
     "target": "es5",
     "module": "esnext",
     "baseUrl": "./",
